@@ -11,7 +11,7 @@ export const TOTAL_SCREENS = [
 
     },
     {
-        screen_name:"AboutMe",
+        screen_name:"Aboutme",
         component:AboutMe,
 
     },
@@ -21,7 +21,7 @@ export const TOTAL_SCREENS = [
 
     },
     {
-        screen_name:"Contact Me",
+        screen_name:"Contact me",
         component:ContactMe,
 
     },
