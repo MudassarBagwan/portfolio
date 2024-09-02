@@ -10,7 +10,7 @@ const Profile = () => {
 
                      <div className="cloz">
                     <div className="cloz-icon">
-                    <a href='#/'>
+                    <a href='https://www.facebook.com/'>
                        <i className='fa fa-facebook-square'></i>
                     </a>
                     <a href='#/'>
