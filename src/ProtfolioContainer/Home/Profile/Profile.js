@@ -16,13 +16,13 @@ const Profile = () => {
                     <a href='#/'>
                        <i className='fa fa-google-plus-square'></i>
                     </a>
-                    <a href='#/'>
+                    <a href='https://www.instagram.com/'>
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
-                    <a href='#/'>
+                    <a href='https://www.youtube.com/@Msb-gaming-yq8tv'>
                        <i className='fa fa-youtube-square'></i>
                     </a>
-                    <a href='#/ '>
+                    <a href='https://x.com/'>
                        <i className='fa fa-twitter'></i>
                     </a>
                     </div>
@@ -49,10 +49,7 @@ const Profile = () => {
                                 2000,
                                 "MERN Stack Devloper 😎",
                                 2000,
-                                "React Navtive Devloper 📱",
-                                2000,
-                                "Cross Platform Devloper 🌎",
-                                2000,
+                              
 
                             ]}
                             />
