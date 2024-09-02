@@ -60,10 +60,11 @@ const Profile = () => {
                     </span>
                 </div>
                 <div className="profile-options">
-                    <button className="btn primary-btn">
+                <a href="#ContactMe">    <button className="btn primary-btn">
                         {""}
                         Hire Me
                     </button>
+                          </a>
                     <a href="CV_Mudassar.pdf" download='CV_Mudassar.pdf'>
                         <button className='btn highlighted-btn'>
                             Get Resume
