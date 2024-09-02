@@ -17,9 +17,9 @@ const AboutMe = (props) => {
     description:"Full Stack web and mobile devloper with background knowledge of MERN stacks with redux, along with a kanck of building applications with utmost efficeincy. Strong Professional With BSC willing to be an assets for an Organization.",
     highlights:{
       bullets:[
-        "Full Stack web and mobile devlopment",
+        "Full Stack web  devlopment",
         "Interactive Front End as per the design",
-        "React and React Native",
+        "React",
         "Redux for State Management",
         "Building REST API",
         "Managing database",
